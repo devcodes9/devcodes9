@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [EatEase-WebApp](https://github.com/devcodes9/EatEase-WebApp)  
   
 
-- 🌱 I’m currently learning MERN stack  
+- 🌱 I’m currently working with MERN stack  
   
 
 - ❓Curious about software engineering practices and technologies  
