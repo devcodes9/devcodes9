@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dev Dalia, an Aspiring Software Engineer👨‍💻 in my final year 🚀</div>  
   
 
-- 🔭 I’m currently working on [EatEase-WebApp](https://github.com/devcodes9/EatEase-WebApp)  
+- 🔭 I’m currently working on [LocalUp-WebApp](https://github.com/devcodes9/LocalUp-WebApp)  
   
 
 - 🌱 I’m currently working with MERN stack  
