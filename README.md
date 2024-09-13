@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dev Dalia, an Aspiring Software Engineer👨‍💻 in my final year 🚀</div>  
+### <div align="center">I'm Dev Dalia, Software Engineer 🚀</div>  
   
 
 - 🔭 I’m currently working on [LocalUp-WebApp](https://github.com/devcodes9/LocalUp-WebApp)  
