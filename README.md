@@ -37,10 +37,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcodes9&show_icons=true&theme=radical)
+![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcodes9&show_icons=true&theme=radical) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcodes9&layout=compact&theme=radical) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devcodes9&theme=radical)](https://git.io/streak-stats)
+<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devcodes9&theme=radical)](https://git.io/streak-stats) -->
