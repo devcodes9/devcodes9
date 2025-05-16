@@ -2,6 +2,8 @@
 
 - 🔭 I'm a Software Engineer focused on creating beautiful products that people love to use. Committed to leveraging technology to transform lives and businesses.
 - 💬 You can ask me about full-stack development and turning ideas into functional products; always happy to help! 🤗
+-  This is my personal account, Other Account: [devdcodes9 (Work account)](https://github.com/devdcodes9) 
+
 
 [![Contact information](https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdalia9@gmail.com)
 [![Linkedin profile URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-dalia)
